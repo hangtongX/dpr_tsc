@@ -1,1 +1,1 @@
-# dpr_tsc
+This project is in its early stages, and while the core functionality has been implemented, we are currently unable to guarantee reproducibility of results across different environments. We appreciate your interest and patience as we work towards optimizing and stabilizing the project.
